@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DatabaseLab</string>
+    <array name="Category">
+        <item>Select Company</item>
+        <item>Dell</item>
+        <item>Hp</item>
+        <item>Lenovo</item>
+    </array>
+</resources>
